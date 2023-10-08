@@ -1,0 +1,9 @@
+{
+  "name": "vcode",
+  "version": "0.0.0",
+  "description": "VCode",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
